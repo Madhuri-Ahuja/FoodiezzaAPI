@@ -1,0 +1,12 @@
+D:\Angular_Website\foodiezzaApi\FoodiezzaAPI.Data\bin\Debug\netcoreapp3.1\FoodiezzaAPI.Data.deps.json
+D:\Angular_Website\foodiezzaApi\FoodiezzaAPI.Data\bin\Debug\netcoreapp3.1\FoodiezzaAPI.Data.runtimeconfig.json
+D:\Angular_Website\foodiezzaApi\FoodiezzaAPI.Data\bin\Debug\netcoreapp3.1\FoodiezzaAPI.Data.runtimeconfig.dev.json
+D:\Angular_Website\foodiezzaApi\FoodiezzaAPI.Data\bin\Debug\netcoreapp3.1\FoodiezzaAPI.Data.dll
+D:\Angular_Website\foodiezzaApi\FoodiezzaAPI.Data\bin\Debug\netcoreapp3.1\FoodiezzaAPI.Data.pdb
+D:\Angular_Website\foodiezzaApi\FoodiezzaAPI.Data\obj\Debug\netcoreapp3.1\FoodiezzaAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angular_Website\foodiezzaApi\FoodiezzaAPI.Data\obj\Debug\netcoreapp3.1\FoodiezzaAPI.Data.AssemblyInfoInputs.cache
+D:\Angular_Website\foodiezzaApi\FoodiezzaAPI.Data\obj\Debug\netcoreapp3.1\FoodiezzaAPI.Data.AssemblyInfo.cs
+D:\Angular_Website\foodiezzaApi\FoodiezzaAPI.Data\obj\Debug\netcoreapp3.1\FoodiezzaAPI.Data.csproj.CoreCompileInputs.cache
+D:\Angular_Website\foodiezzaApi\FoodiezzaAPI.Data\obj\Debug\netcoreapp3.1\FoodiezzaAPI.Data.dll
+D:\Angular_Website\foodiezzaApi\FoodiezzaAPI.Data\obj\Debug\netcoreapp3.1\FoodiezzaAPI.Data.pdb
+D:\Angular_Website\foodiezzaApi\FoodiezzaAPI.Data\obj\Debug\netcoreapp3.1\FoodiezzaAPI.Data.genruntimeconfig.cache
